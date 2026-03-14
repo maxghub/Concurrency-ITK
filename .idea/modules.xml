@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Blocking-queu/Blocking-queu.iml" filepath="$PROJECT_DIR$/Blocking-queu/Blocking-queu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Concurrency.iml" filepath="$PROJECT_DIR$/Concurrency.iml" />
+      <module fileurl="file://$PROJECT_DIR$/concurrent-bank-project/concurrent-bank-project.iml" filepath="$PROJECT_DIR$/concurrent-bank-project/concurrent-bank-project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/synchronizer-project/synchronizer-project.iml" filepath="$PROJECT_DIR$/synchronizer-project/synchronizer-project.iml" />
+    </modules>
+  </component>
+</project>
